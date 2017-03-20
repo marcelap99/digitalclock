@@ -17,3 +17,17 @@ body{
   position: relative;
   left:550px;
 }
+.greeting{
+  border: 3px solid black;
+  height: 300px;
+  width:800px;
+  padding:4px;
+  /*margin: auto;*/
+  /*display:inline-block;*/
+  position: relative;
+  left:325px;
+  background-color: #ebefcb;
+  font-size: 50px;
+  color: red;
+  text-align: center;
+}
